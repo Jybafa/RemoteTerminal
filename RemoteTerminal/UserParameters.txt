@@ -1,0 +1,4 @@
+MPTeam01;192.168.1.201;SafetySystem_1;IOService;AppKey1;
+MPTeam02;192.168.1.202;SafetySystem_2;IOService;AppKey2;
+MPTeam03;192.168.1.203;SafetySystem_3;IOService;AppKey3;
+MPTeam04;192.168.1.204;SafetySystem_4;IOService;AppKey4;
